@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/seminar_10_task2.dir/main.c.o -o seminar_10_task2 
